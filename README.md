@@ -33,10 +33,15 @@ Our algorithm predicts the user, what crop type would be the most suitable for t
 # Accuracy Range
 
 Naive Bayes → 0.990909090909091
+
 SVM → 0.029545454545454545
+
 Logistic Regression → 0.9522727272727273
+
 RF → 0.9954545454545455
+
 XGBoost → 0.9902272727272727
+
 ANN →95.1%
 
 # CONCLUSION
